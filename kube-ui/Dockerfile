@@ -1,2 +1,2 @@
 from index.alauda.cn/googlecontainer/kube-ui:v5
-MAINTAINER longshiying@163.com
+MAINTAINER 876852065@qq.com
