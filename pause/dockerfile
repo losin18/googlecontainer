@@ -1,0 +1,2 @@
+From registry.k8s.io/pause:3.9
+MAINTAINER losin <876852065@qq.com>
